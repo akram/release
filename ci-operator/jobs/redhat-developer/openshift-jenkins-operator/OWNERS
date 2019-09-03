@@ -1,5 +1,5 @@
 # DO NOT EDIT; this file is auto-generated using tools/populate-owners.
-# from https://github.com/redhat-developer/openshift-jenkins-operator/blob/b6c9f8b49213cb9569514fd5d60dd61d4ab71190/OWNERS
+# from https://github.com/redhat-developer/openshift-jenkins-operator/blob/6c0d0e4c1c9f481ebc16d29395c0903f6cc21e94/OWNERS
 # See the OWNERS docs: https://git.k8s.io/community/contributors/guide/owners.md
 
 approvers:
